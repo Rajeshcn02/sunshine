@@ -71,8 +71,8 @@
   <distributionManagement>
    <repository>
      <id>github</id>
-     <name>GitHub Tejaswini-Gowda Apache Maven Packages</name>
-     <url>https://maven.pkg.github.com/Tejaswini-Gowda/sunshine-action</url>
+     <name>GitHub Rajeshcn02 Apache Maven Packages</name>
+     <url>https://maven.pkg.github.com/Rajeshcn02/sunshine</url>
    </repository>
   </distributionManagement>
 
